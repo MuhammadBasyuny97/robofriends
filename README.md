@@ -1,5 +1,7 @@
-#<h1> This is my one page react app 'robofriends' . </h1>
+# <h1> This is my one page react app 'robofriends' . </h1>
 
+-----------------------------------------------------------------
+# Node Package Managers 'NPM' instructions
 
 # Getting Started with Create React App
 
