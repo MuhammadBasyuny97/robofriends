@@ -24,7 +24,7 @@ export const robots = [
     email: 'Julianne.OConner@kory.org'
   },
   {
-    id: 'https://ae01.alicdn.com/kf/S6132862e4fa94a43be5dd79d8bd84702L/Pre-Sale-14Cm-Robot-Neoanthropinae-Polynian-Anime-Figure-Model-Mobile-Suit-Girl-Action-Toy-Figures-Periphery.jpg',
+    id: 'https://geekflare.com/wp-content/uploads/2022/05/Robots.png',
     name: 'Chelsey Dietrich',
     username: 'Kamren',
     email: 'Lucio_Hettinger@annie.ca'
